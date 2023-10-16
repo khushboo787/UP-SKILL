@@ -24,4 +24,4 @@ Conclusion
 Overall, this project is a great example of what can be accomplished with HTML, CSS, and JavaScript in just a few days. It offers several key features that users expect from e-commerce websites and provides a solid foundation for further development and customization. Whether you're a developer looking to learn new skills or simply a fan of Ssense.com, this project is definitely worth checking out!
 
 Deployement Link:
-Link: [https://dapper-narwhal-4f00c1.netlify.app/](https://grand-gaufre-71d627.netlify.app/)https://grand-gaufre-71d627.netlify.app/
+Link: https://grand-gaufre-71d627.netlify.app/
